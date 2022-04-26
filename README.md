@@ -11,3 +11,4 @@
 - Stock Market Game_ Table.png
 ## design ii
 - Design II – Group 5.pdf
+- LIST OF ALGORITHMS.pdf
